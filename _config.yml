@@ -27,7 +27,7 @@ github_username:  juno-yu
 # Build settings
 markdown: kramdown
 name: juno-yu
-theme: Minima
+theme: jekyll-theme-slate
 plugins:
   - jekyll-feed
 
